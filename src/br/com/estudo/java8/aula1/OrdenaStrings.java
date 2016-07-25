@@ -1,4 +1,4 @@
-package br.com.estudo.java8;
+package br.com.estudo.java8.aula1;
 
 import java.util.ArrayList;
 import java.util.List;
